@@ -1,5 +1,9 @@
+---
 layout: page
 title: "test page"
 permalink: /test
+---
 
-this is a test page
+this is another test page
+
+[Back](https://jamie-winfield.github.io/)
