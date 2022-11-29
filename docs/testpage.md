@@ -1,9 +1,15 @@
 ---
-layout: home
-title: "test page"
-permalink: /test
+layout: page
+title: "Portfolio"
+permalink: /portfolio
 ---
 
-this is another test page
+Here is what I have been working on, for more information about each project you can 
+click the title of each one.
 
-[Back](https://jamie-winfield.github.io/)
+this is an image
+![test image](/assets/images/testimage.png)
+
+[Home](https://jamie-winfield.github.io/)
+
+
