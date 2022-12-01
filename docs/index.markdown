@@ -6,7 +6,9 @@ layout: home
 ---
 <h2> Welcome to My Site!</h2>
 <p>
-	For information about myself checkout my <a href="/about"> About Me </a> page or to see what i've been working on have a look at my <a href="/portfolio"> Portfolio </a> page. 
+	For information about myself checkout my <a href="/about"> About Me </a> page or to see what i've been working on have a look at my <a href="/portfolio"> Portfolio </a> page.
+	
+	Please do not hesitate to get in touch via my provided contact information at the bottom of the page.
 </p>
 <p>
 	Some features of this website are still currently under construction
